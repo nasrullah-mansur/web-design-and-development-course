@@ -1,0 +1,186 @@
+.main {
+    width: 600px;
+    height: 400px;
+    background-color: green;
+}
+
+.row-1 {
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.col-1 {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.col-2 {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+
+.row-2 {
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.col-3 {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+
+.col-4 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.col-5 {
+    width: 100px;
+    height: 200px;
+    background-color: #b7d85b;
+    float: left;
+}
+
+
+/* main 3 */
+.main-3 {
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    overflow: hidden;
+}
+
+.main-3 .one {
+    width: 300px;
+    height: 200px;
+    background-color: #8be438;
+    float: left;
+}
+
+.main-3 .two {
+    width: 300px;
+    height: 200px;
+    background-color: #38e4a2;
+    float: left;
+}
+
+.main-3 .three {
+    width: 300px;
+    height: 200px;
+    background-color: #a538e4;
+    float: left;
+}
+
+.main-3 .four {
+    width: 200px;
+    height: 200px;
+    background-color: #55e438;
+    float: left;
+}
+
+.main-3 .five {
+    width: 100px;
+    height: 200px;
+    background-color: #e4388e;
+    float: left;
+}
+
+.main-4 {
+    width: 800px;
+    background-color: pink;
+    overflow: hidden;
+}
+
+.main-4 .left {
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+.main-4 .right {
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+.main-4 .right img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+/* .one {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+    float: left;
+}
+
+.two {
+    width: 120px;
+    height: 120px;
+    background-color: #006eff;
+
+    float: left;
+}
+
+.three {
+    width: 150px;
+    height: 150px;
+    background-color: #00ff37;
+
+    float: left;
+}
+
+.four {
+    width: 180px;
+    height: 180px;
+    background-color: #f700ff;
+
+    float: left;
+    
+}
+
+h1 {
+    clear: both;
+}
+
+
+.main-2 {
+    width: 800px;
+    height: 220px;
+    background-color: yellow;
+    overflow: hidden;
+}
+
+.test {
+    width: 400px;
+    background-color: blue;
+} */
+
+span {
+    text-align: center;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+
+
+
